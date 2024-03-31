@@ -1,3 +1,4 @@
+accelerate
 ninja
 trimesh
 opencv-python
