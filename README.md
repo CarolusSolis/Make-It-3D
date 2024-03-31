@@ -45,7 +45,7 @@ Install with pip:
     pip install git+https://github.com/huggingface/diffusers.git
     pip install git+https://github.com/huggingface/huggingface_hub.git
     pip install git+https://github.com/facebookresearch/pytorch3d.git
-    pip install git+https://github.com/S-aiueo32/contextual_loss_pytorch.git
+    pip install git+https://github.com/CarolusSolis/contextual_loss_pytorch.git
 ```
 Other dependencies:
 ```
